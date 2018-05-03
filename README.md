@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="aboutme.css" rel="stylesheet" type="text/css"/>
     <meta charset="utf-8">
-    <title> WELCOME TO GUY FIERI</title>
+    <title>WELCOME TO GUY FIERI</title>
   </head>
   
   
 <h1 style="font-size:10vw">Hello World</h1>
     <h1>GUY</h1>
-    <h1>THE MAN, THE CHEF</h1>
+    <h1>THE MAN,THE CHEF, THE LEGEND</h1>
     <h2>ABOUT</h2>
     <p>A future colorful culinary personality, Guy Ramsey Ferry was born on January 22, 1968, later changing his last name to the original family spelling "Fieri." He opened up his first food business at the age of 10, operating his own pretzel cart. After college, he worked as a restaurant manager, then started his own restaurant with a partner in 1996. In 2006, Fieri began his TV career after winning Next Food Network Star. Today, he hosts several food-themed shows.
   
@@ -36,8 +36,9 @@ Expanding beyond cooking, Fieri became a game show host in 2010. He guides conte
     <h3>“That’s the definition of stupid in Flavourtown. Stupid in a good way.”</h3></p> 
     
     
-    <h1> MORE coding</h1>
-    <p> Bomb-dot-com tasty
+    <h1> MORE </h1>
+    <p>
+   Bomb-dot-com tasty
 This is one of Fieri’s go-to expressions in the earlier seasons of Triple D, where his campy bro-ishness was at its peak. The etymology seems to come from the late ‘90s slang “the bomb,” meaning good. It's coupled with the smooth-rhyming “dot com” to signify that we are close to reaching technological singularity and, even if we wanted to, we could never unplug from The Matrix. Also, you’ll notice that the more outlandish the descriptor, the less it seems that Fieri actually likes the food.
 
 Example: You know what, it might just be a mound of oil-logged Pillsbury crescent dough, but it’s bomb-dot-com tasty, amigo.
